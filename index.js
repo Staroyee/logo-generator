@@ -22,7 +22,7 @@ const triangleLogo = (data) => `
   <text x="205" y="160" font-size="60" text-anchor="middle" fill="${data.textColour}">${data.text}</text>
 </svg>
 `
-//
+//Square logo function
 const squareLogo = (data) => `
 <svg height="210" width="500">
 
