@@ -37,7 +37,7 @@ To use the app:
 ![alt text](./lib/images/app.JPG)
 
 ## Video
-https://drive.google.com/file/d/1D4Jpegp0Tu42WdV6cKfpYyO8e_AvG1bX/view?usp=sharing
+https://drive.google.com/file/d/1WRNaHt-l3Jvl04970Or2Wj6YxUKlVHBj/view?usp=sharing
 
 ## Credits
 * Week 9 activities
